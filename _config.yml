@@ -22,10 +22,6 @@ url: "https://mordax.io" # the base hostname & protocol for your site, e.g. http
 # twitter_username: jekyllrb
 github_username:  mordax
 
-feed_items: 10
-feed_update_period: daily
-feed_update_frequency: 1
-
 # Build settings
 markdown: kramdown
 theme: minima
