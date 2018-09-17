@@ -22,6 +22,7 @@ url: "https://mordax.io" # the base hostname & protocol for your site, e.g. http
 # twitter_username: jekyllrb
 github_username:  mordax
 
+author: mordax
 # Build settings
 markdown: kramdown
 theme: minima
@@ -29,7 +30,7 @@ plugins:
   - jekyll-feed
 feed:
   categories:
-    - open_source_seneca
+    - seneca
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
