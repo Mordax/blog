@@ -40,13 +40,15 @@ This is still a work in progress. Something that took a while for me to understa
 
 Here is the link to the [Pull Request](https://github.com/filerjs/filer/pull/481) with the tests I outline above.
 
+---  
+
 It was also my first time giving a [code review](https://github.com/filerjs/filer/pull/471). 
 
 The Travis build was failing due to simple linting issues - some spaces were 4 where they should've been 2, missing semicolons, etc. So I offered a simple fix, asking the programmer to `npm run lint:fix` which is a command in Filer's test that does the lint fixes for you. 
 
 They took my advice and happily enough, their tests passed Travis this time. 
 
----
+---  
 
 My PR received a very detailed and thoughtful review. I'm still working on cleaning it up.
 
