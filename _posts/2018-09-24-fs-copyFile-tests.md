@@ -19,9 +19,8 @@ _dest_ => the file to be changed to src's contents. Both src and dest can be str
 
 [flags] are optional and can be either one (or more than one) of the following:  
 _COPYFILE_EXCL_ => which will make sure the copy fails if destination target already exists  
-_COPYFILE_FICLONE_ => 
-
-_COPYFILE_FICLONE_FORCE_ =>
+_COPYFILE_FICLONE_ => The copy operation will attempt to create a copy-on-write reflink. Basically what that means that if the location is equivalent in content to the src, it won't copy it, thus removing unecessary operations. If the platform doesn't support it, _a fallback copy mechanism is used_.  
+_COPYFILE_FICLONE_FORCE_ => Same as Ficlone, except if the platform doesn't support it, it will fail as opposed to using a fallback mechanism.  
 
 ---
 
