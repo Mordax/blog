@@ -1,5 +1,5 @@
 ---
-title: Solidity Windows Documentation
+title: Solidity Chronicles | Saving Windows Developers
 layout: post
 date: 2018-10-09 20:43:00 -0400
 category: ["seneca"]
