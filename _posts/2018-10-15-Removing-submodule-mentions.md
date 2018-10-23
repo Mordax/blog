@@ -9,16 +9,16 @@ category: ["seneca"]
 
 This is probably going to be a shorter post. 
 
-#### Issue:
+#### **Issue**:
 [Remove mention of submodules from Docs and build scripts](https://github.com/ethereum/solidity/issues/5142)
 
-#### Solution:
+#### **Solution**:
  - Remove mention from documentation on building from source [here](https://solidity.readthedocs.io/en/latest/installing-solidity.html#clone-the-repository). If you're interested in what it said before, see the previous versions of the docs. 
  - Remove mention from the build lists:
     - From appveyor.yml
     - And this file was seperated to handle an unforseen build break: scripts/create_source_tarball.sh
 
-#### Benefit:
+#### **Benefit**:
  - Reduces code that needs to be run
  - Reduces chances of bugs
  - Cleans up documentation.
