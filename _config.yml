@@ -27,10 +27,14 @@ author: mordax
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
-feed:
-  categories:
-    - "seneca"
+  #- jekyll-feed
+  - jekyll-analytics
+# feed:
+ # categories:
+   # - "seneca"
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-127818076-1
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
