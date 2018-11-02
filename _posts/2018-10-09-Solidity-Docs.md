@@ -42,7 +42,7 @@ Some terms for my own memory and maybe yours (and potentially to keep updating):
 Hopefully this list clears up some terms and gives out some useful links.   
 
 ---       
-
+<br>
 
 #### **Back to the Solidity Documentation.**   
 
@@ -64,6 +64,7 @@ Commandline tests FAILED
 Properly installing Python 2.7 doesn't fix this issue. If I find the answer to this, I will update the post.
 
 ---
+<br>
 
 The command that is supposed to run the tests without any extra application installs is a shell based file:
 
