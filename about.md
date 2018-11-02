@@ -8,5 +8,5 @@ I'm a software developer but most days I find myself [shaving the Yaks](https://
 
 Passionate about Internet decentralization and any cool new technologies that crop up.
 
-This blog is running on [Jekyll](https://jekyllrb.com/)
+This blog is running on [Jekyll](https://jekyllrb.com/).
 
