@@ -1,5 +1,5 @@
 ---
-title: A Series of Unfortunate Data Analyses | Logic cleanup
+title: A Series of Fortunate Data Analyses | Logic cleanup
 layout: post
 date: 2018-10-15 16:15:00 -0400
 category: ["seneca"]
