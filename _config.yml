@@ -28,16 +28,11 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-analytics
   - jekyll-sitemap
 # feed:
  # categories:
    # - "seneca"
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-127818076-1
-    anonymizeIp: false
-    
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

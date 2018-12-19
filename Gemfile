@@ -19,7 +19,6 @@ gem "github-pages", "192", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-    gem 'jekyll-analytics'
     gem "jekyll-feed"
     gem 'jekyll-sitemap'
 end
