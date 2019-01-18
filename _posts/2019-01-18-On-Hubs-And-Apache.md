@@ -14,7 +14,7 @@ What's interesting is that I didn't expect [Hubs](https://github.com/mozilla/hub
 
 On the other side, I didn't realize how difficult it would be to hunt down a good, introductory bug in [Apache httpd](https://httpd.apache.org/). Although, potentially with the upcoming [HTTP/3 release](https://en.wikipedia.org/wiki/HTTP/3) there will most likely be lots of new bugs due to probable compatibility issues. But so far, the project is like a finely aged wine, where the bugs are so advanced it's like reading [Linear A script](https://en.wikipedia.org/wiki/Linear_A) (be prepared for more historical references in my future blog posts, cringey as they may be). 
 
-### **The Issues:**
+#### **The Issues:**
 
 Two of the issues are meant for easing into the project community.
 
