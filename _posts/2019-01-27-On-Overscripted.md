@@ -25,7 +25,7 @@ When we did a hackathon back in January 2018, we did a bunch of research and pro
 ---  
 <br>
 [<img src="{{ site.baseurl }}/assets/img/canvas.png">](https://github.com/mozilla/overscripted/blob/master/analyses/2018_09_biskit1_mordax__canvas_fingerprinting.ipynb)
-> <p style="text-align: center;"> Our precious analysis</p>
+> <p style="text-align: center;"> The aforementioned analysis</p>
 
 <br>
 
