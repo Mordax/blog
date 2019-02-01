@@ -27,6 +27,8 @@ Regarding Hubs, although the code was well structured and easy to discern what c
 
 I managed to do a PR [(found here)](https://github.com/mozilla/hubs/pull/862), but that is just the tip of the iceberg for that particular issue. It's a bug that requires layers of work, back and forth, and discussion on core directions. And the other hard part, I'm unsure of where I can get more real time discussion going. The slack has been left for Discord and the one invite I found had been expired. 
 
+How I fixed this bug - had to heavily rely on the inspector tool - because this was a visual change (making the chat more visible when you enter it), which is done using [Sass](https://sass-lang.com/) (which I've never had to work with before). It was a bit of hunting for the particular object, making it more opaque but still having a nice transition, and observing that they had a shared sheet with predefined colours used throughout Hubs (which made my job easier) and changed it to be clearer than the transparent chat box they currently have.
+
 The next steps would be to sit down and just read as much relevant code as I can, read up on Aframe and various other components that Hubs uses so I can truly understand how Hubs rooms really get built.
 
 
