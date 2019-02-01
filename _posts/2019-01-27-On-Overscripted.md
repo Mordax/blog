@@ -6,7 +6,7 @@ category: [open_source]
 tags: [mozilla, open_source, mozfest, jupyter, pandas, dask, overscripted, challenge, apache, spark, competition, javascript, data, science, analysis, big_data, dataset, open_science]
 ---
 
-This post is a long time coming. This post will probably be in a part of a series.
+This post is a long time coming. It will also probably be a part of a series.
 
 Back in August 2018, I was approached by my real life friend [biskit1](https://github.com/biskit1) about a competition Mozilla was hosting called the [Overscripted challenge](https://challenges.mozilla.community/overscripted/). 
 
@@ -25,7 +25,7 @@ When we did a hackathon back in January 2018, we did a bunch of research and pro
 ---  
 <br>
 [<img src="{{ site.baseurl }}/assets/img/canvas.png">](https://github.com/mozilla/overscripted/blob/master/analyses/2018_09_biskit1_mordax__canvas_fingerprinting.ipynb)
-> <p style="text-align: center;"> Our precious analysis</p>
+> <p style="text-align: center;"> The aforementioned analysis</p>
 
 <br>
 
