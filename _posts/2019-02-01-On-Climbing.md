@@ -18,7 +18,7 @@ I spent more time figuring out why it wasn't building than actually doing my bug
 
 I was unable to. I would get extra information found in different documentation, different community comments and each time, would run into problems unique to my environment. I even had a markdown sheet open, ready to document the steps, yet the amount of new information that would pop up would have me step backwards, rewriting that sheet multiple times.
 
-However, my next steps may be to try a user made tool found on [Bitbucket](https://bitbucket.org/wagnersolutions/apache-2.4-build-windows); or either to call it quits and try to build it on a Linux VM, or scale back and try a less complicated Apache project. 
+However, my next steps may be to try a user made tool found on [Bitbucket](https://bitbucket.org/wagnersolutions/apache-2.4-build-windows); actually reaching out and asking someone in Apache to walk me through the build,either to call it quits and try to build it on a Linux VM, or scale back and try a less complicated Apache project. 
 
 ---
 <br>
